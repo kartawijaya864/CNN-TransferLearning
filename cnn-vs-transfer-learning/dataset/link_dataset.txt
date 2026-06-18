@@ -1,0 +1,13 @@
+Link CNN :
+https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz 
+
+[1] A. Krizhevsky, “Learning Multiple Layers of Features from Tiny Images,” University of Toronto, 2009.
+
+[2] M. Sandler et al., “MobileNetV2: Inverted Residuals and Linear Bottlenecks,” Proc. CVPR, pp. 4510–4520, 2018.
+
+[3] I. Goodfellow, Y. Bengio, and A. Courville, Deep Learning. MIT Press, 2016.
+
+[4] TensorFlow, “TensorFlow Documentation,” Available: https://www.tensorflow.org/.
+
+[5] Kaggle, “Dogs vs Cats Dataset,” Available: https://www.kaggle.com/.
+
